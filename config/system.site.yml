@@ -1,0 +1,14 @@
+uuid: 62d0c152-2569-4b0f-9362-f532b099e83b
+name: cse-ci-composer
+mail: emmanuel.hallarsis@getpantheon.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
